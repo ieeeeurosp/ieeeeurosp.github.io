@@ -505,7 +505,7 @@ title = \"""" + CONFERENCE + """ - Authors\"
 +++
 title = \"""" + CONFERENCE + """ - Institutions\"
 +++
-<p align=center><a href="../papers"><b>Papers</b></a> &middot; <a href="../authors"><b>Authors</b></a> &middot; <a href="../fulltopics"><b>Papers by Topic</b></a> /p>
+<p align=center><a href="../papers"><b>Papers</b></a> &middot; <a href="../authors"><b>Authors</b></a> &middot; <a href="../fulltopics"><b>Papers by Topic</b></a></p>
 <p>
 Insitutions affiliated with authors of papers in the """ + CONFERENCE_FULL + """.
 <p>

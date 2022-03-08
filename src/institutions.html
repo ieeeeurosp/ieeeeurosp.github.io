@@ -2,7 +2,7 @@
 +++
 title = "IEEE EuroS&P 2022 - Institutions"
 +++
-<p align=center><a href="../papers"><b>Papers</b></a> &middot; <a href="../authors"><b>Authors</b></a> &middot; <a href="../fulltopics"><b>Papers by Topic</b></a> /p>
+<p align=center><a href="../papers"><b>Papers</b></a> &middot; <a href="../authors"><b>Authors</b></a> &middot; <a href="../fulltopics"><b>Papers by Topic</b></a></p>
 <p>
 Insitutions affiliated with authors of papers in the <a href="https://www.ieee-security.org/TC/EuroSP2022/">7<sup>th</sup> IEEE European Symposium on Security and Privacy</a>.
 <p>
