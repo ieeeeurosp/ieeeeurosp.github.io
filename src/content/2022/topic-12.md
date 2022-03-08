@@ -1,0 +1,6 @@
++++
+title = "IEEE EuroS&P 2022 - Papers on Language-based security and privacy"
++++
+<center><a href="../topics"><b>Topics</b></a> &middot; <a href="../papers"><b>Papers</b></a></center>
+<p>
+<h2>Language-based security and privacy</h2><div class="bpaper"><span class="ptitle">Compositional Information Flow Monitoring for Reactive Programs</span></br><div class="pblock"><span class="author">McKenna&nbsp;McCall</span> <span class="institution">(Carnegie Mellon University)</span>, <span class="author">Abhishek&nbsp;Bichhawat</span> <span class="institution">(Indian Institute of Technology Gandhinagar)</span>, <span class="author">Limin&nbsp;Jia</span> <span class="institution">(Carnegie Mellon University)</span><br><div class="pextra"></div></div></div><div class="bpaper"><span class="ptitle">Dynamic Policies Revisited</span></br><div class="pblock"><span class="author">Amir&nbsp;M.&nbsp;Ahmadian</span> <span class="institution">(KTH Royal Institute of Technology)</span>, <span class="author">Musard&nbsp;Balliu</span> <span class="institution">(KTH Royal Institute of Technology)</span><br><div class="pextra"></div></div></div>

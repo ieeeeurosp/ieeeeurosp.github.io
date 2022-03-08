@@ -1,0 +1,6 @@
++++
+title = "IEEE EuroS&P 2022 - Papers on Blockchain and Cryptocurrency"
++++
+<center><a href="../topics"><b>Topics</b></a> &middot; <a href="../papers"><b>Papers</b></a></center>
+<p>
+<h2>Blockchain and Cryptocurrency</h2><div class="bpaper"><span class="ptitle">Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments</span></br><div class="pblock"><span class="author">Yacov&nbsp;Manevich</span> <span class="institution">(Haifa University)</span>, <span class="author">Adi&nbsp;Akavia</span> <span class="institution">(Haifa University)</span><br><div class="pextra"></div></div></div><div class="bpaper"><span class="ptitle">SoK: Privacy-Preserving Computing in the Blockchain Era</span></br><div class="pblock"><span class="author">Ghada&nbsp;Almashaqbeh</span> <span class="institution">(University of Connecticut)</span>, <span class="author">Ravital&nbsp;Solomon</span> <span class="institution">(Sunscreen)</span><br><div class="pextra"></div></div></div>

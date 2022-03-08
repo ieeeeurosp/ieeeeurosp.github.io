@@ -1,0 +1,6 @@
++++
+title = "IEEE EuroS&P 2022 - Papers on Machine learning privacy issues and methods"
++++
+<center><a href="../topics"><b>Topics</b></a> &middot; <a href="../papers"><b>Papers</b></a></center>
+<p>
+<h2>Machine learning privacy issues and methods</h2><div class="bpaper"><span class="ptitle">Transformer-based Extraction of Deep Image Models</span></br><div class="pblock"><span class="author">Verena&nbsp;Battis</span> <span class="institution">(Fraunhofer SIT)</span>, <span class="author">Alexander&nbsp;Penner</span> <span class="institution">(Technical University of Darmstadt)</span><br><div class="pextra"></div></div></div><div class="bpaper"><span class="ptitle">Unrolling SGD: Understanding Factors Influencing Machine Unlearning</span></br><div class="pblock"><span class="author">Anvith&nbsp;Thudi</span> <span class="institution">(University of Toronto & Vector Institute)</span>, <span class="author">Gabriel&nbsp;Deza</span> <span class="institution">(University of Toronto & Vector Institute)</span>, <span class="author">Varun&nbsp;Chandrasekaran</span> <span class="institution">(University of Wisconsin)</span>, <span class="author">Nicolas&nbsp;Papernot</span> <span class="institution">(University of Toronto & Vector Institute)</span><br><div class="pextra"></div></div></div>

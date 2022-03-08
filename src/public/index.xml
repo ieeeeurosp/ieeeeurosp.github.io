@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IEEE Euro S&amp;P Chair&#39;s Site</title>
+    <link>https://ieeeeurosp.github.io/</link>
+    <description>Recent content on IEEE Euro S&amp;P Chair&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>evans@virginia.edu (Euro S&amp;P Program Chairs)</managingEditor>
+    <webMaster>evans@virginia.edu (Euro S&amp;P Program Chairs)</webMaster>
+    
+	<atom:link href="https://ieeeeurosp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IEEE Euro S&amp;P 2022 - Available Artifacts</title>
+      <link>https://ieeeeurosp.github.io/2022/artifacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/artifacts/</guid>
+      <description>The following papers have artifacts available (in accordance with our Open Science expectations). All Papers &amp;middot; List By Authors &amp;middot; Institutions</description>
+    </item>
+    
+    <item>
+      <title>IEEE Euro S&amp;P 2022 - Available Papers</title>
+      <link>https://ieeeeurosp.github.io/2022/openpapers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/openpapers/</guid>
+      <description>The following papers that have been accepted to appear in the 7th IEEE European Symposium on Security and Privacy are now openly available. All Papers &amp;middot; List By Authors &amp;middot; Institutions
+0 open papers</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Accepted Papers</title>
+      <link>https://ieeeeurosp.github.io/2022/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/papers/</guid>
+      <description>The following papers have been accepted to the 7th IEEE European Symposium on Security and Privacy to be held June 6-10, 2022 in Genoa, Italy. List By Authors &amp;middot; Institutions &amp;middot; Papers by Topic aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHAMd&amp;nbsp;Imran&amp;nbsp;Hossen, Xiali&amp;nbsp;HeiCaptcha me if you can: Imitation Games with Reinforcement LearningIlias&amp;nbsp;Tsingenopoulos, Davy&amp;nbsp;Preuveneers, Lieven&amp;nbsp;Desmet, Wouter&amp;nbsp;JoosenCompositional Information Flow Monitoring for Reactive ProgramsMcKenna&amp;nbsp;McCall, Abhishek&amp;nbsp;Bichhawat, Limin&amp;nbsp;JiaCostCO: An automatic cost modeling framework for secure multi-party computationVivian&amp;nbsp;Fang, Lloyd&amp;nbsp;Brown, William&amp;nbsp;Lin, Wenting&amp;nbsp;Zheng, Aurojit&amp;nbsp;Panda, Raluca&amp;nbsp;PopaCross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed CommitmentsYacov&amp;nbsp;Manevich, Adi&amp;nbsp;AkaviaDifficult for Thee, But Not for Me: Measuring the Difficulty and User Experience of Remediating Persistent IoT MalwareElsa&amp;nbsp;Rodríguez, Max&amp;nbsp;Fukkink, Simon&amp;nbsp;Parkin, Michel&amp;nbsp;van&amp;nbsp;Eeten, Carlos&amp;nbsp;Hernandez&amp;nbsp;GananDNN Model Architecture Fingerprinting Attack on CPU-GPU Edge DevicesKartik&amp;nbsp;Patwari, Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz, Han&amp;nbsp;Wang, Houman&amp;nbsp;Homayoun, Zubair&amp;nbsp;Shafiq, Chen-Nee&amp;nbsp;ChuahDynamic Backdoor Attacks Against Machine Learning ModelsAhmed&amp;nbsp;Salem, Rui&amp;nbsp;Wen, Michael&amp;nbsp;Backes, Shiqing&amp;nbsp;Ma, Yang&amp;nbsp;ZhangDynamic Policies RevisitedAmir&amp;nbsp;M.</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Authors</title>
+      <link>https://ieeeeurosp.github.io/2022/authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/authors/</guid>
+      <description>Papers &amp;middot; Institutions &amp;middot; Papers by Topic Amir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology)Amir&amp;nbsp;M.&amp;nbsp;Ahmadian, Musard&amp;nbsp;Balliu. Dynamic Policies RevisitedAdi&amp;nbsp;Akavia (Haifa University)Yacov&amp;nbsp;Manevich, Adi&amp;nbsp;Akavia. Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed CommitmentsMohannad&amp;nbsp;Alhanahnah (University of Wisconsin)Mohannad&amp;nbsp;Alhanahnah, Rithik&amp;nbsp;Jain, Vaibhav&amp;nbsp;Rastogi, Somesh&amp;nbsp;Jha, Thomas&amp;nbsp;Reps. Lightweight, Multi-Stage, Compiler-Assisted Application SpecializationGhada&amp;nbsp;Almashaqbeh (University of Connecticut)Ghada&amp;nbsp;Almashaqbeh, Ravital&amp;nbsp;Solomon. SoK: Privacy-Preserving Computing in the Blockchain EraGiovanni&amp;nbsp;Apruzzese (University of Liechtenstein)Giovanni&amp;nbsp;Apruzzese, Pavel&amp;nbsp;Laskov, Aliya&amp;nbsp;Tastemirova. SoK: The Impact of Unlabelled Data in Cyberthreat DetectionElias&amp;nbsp;Athanasopoulos (University of Cyprus)Antreas&amp;nbsp;Dionysiou, Elias&amp;nbsp;Athanasopoulos.</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Institutions</title>
+      <link>https://ieeeeurosp.github.io/2022/institutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/institutions/</guid>
+      <description>List of Accepted Papers &amp;middot; Authors
+ Insitutions affiliated with authors of papers in the 7th IEEE European Symposium on Security and Privacy. Papers &amp;middot; Institutions &amp;middot; Papers by Topic
+ ANU CanberraKristen&amp;nbsp;Moore, Cody&amp;nbsp;Christopher, David&amp;nbsp;Liebowitz, Nepal&amp;nbsp;Surya, Renee&amp;nbsp;Selvey. Modelling Direct Messaging Networks with Multiple Recipients for Cyber DeceptionAroki SystemsSeny&amp;nbsp;Kamara, Abdelkarim&amp;nbsp;Kati, Tarik&amp;nbsp;Moataz, Thomas&amp;nbsp;Schneider, Amos&amp;nbsp;Treiber, Michael&amp;nbsp;Yonli. SoK: Cryptanalysis of Encrypted Search with LEAKER - A framework for LEakage AttacK Evaluation on Real-world dataBeijing National Research Center for Information Science and TechnologyHuikai&amp;nbsp;Xu, Miao&amp;nbsp;Yu, Yanhao&amp;nbsp;Wang, Yue&amp;nbsp;Liu, Qinsheng&amp;nbsp;Hou, Zhenbang&amp;nbsp;Ma, Haixin&amp;nbsp;Duan, Jianwei&amp;nbsp;Zhuge, Baojun&amp;nbsp;Liu.</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Access control</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-0/</guid>
+      <description>Topics &amp;middot; Papers  Access controlSAUSAGE: Security Analysis of Unix domain Socket Usage in AndroidMounir&amp;nbsp;Elgharabawy (Concordia University), Blas&amp;nbsp;Kojusner (University of Florida), Mohammad&amp;nbsp;Mannan (Concordia University), Kevin&amp;nbsp;R.&amp;nbsp;B.&amp;nbsp;Butler (University of Florida), Byron&amp;nbsp;Williams (University of Florida), Amr&amp;nbsp;Youssef (Concordia University)
+Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained Decentralized Information Flow ControlJason&amp;nbsp;Liu (University of Illinois at Urbana-Champaign), Anant&amp;nbsp;Kandikuppa (University of Illinois at Urbana-Champaign), Adam&amp;nbsp;Bates (University of Illinois at Urbana-Champaign)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Adversarial Machine Learning</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-1/</guid>
+      <description>Topics &amp;middot; Papers  Adversarial Machine LearningaaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHAMd&amp;nbsp;Imran&amp;nbsp;Hossen (University of Louisiana at Lafayette), Xiali&amp;nbsp;Hei (University of Louisiana at Lafayette)
+Captcha me if you can: Imitation Games with Reinforcement LearningIlias&amp;nbsp;Tsingenopoulos (imec-DistriNet, KU Leuven), Davy&amp;nbsp;Preuveneers (imec-DistriNet, KU Leuven), Lieven&amp;nbsp;Desmet (imec-DistriNet, KU Leuven), Wouter&amp;nbsp;Joosen (imec-DistriNet, KU Leuven)
+Dynamic Backdoor Attacks Against Machine Learning ModelsAhmed&amp;nbsp;Salem (CISPA Helmholtz Center for Information Security), Rui&amp;nbsp;Wen (CISPA Helmholtz Center for Information Security), Michael&amp;nbsp;Backes (CISPA Helmholtz Center for Information Security), Shiqing&amp;nbsp;Ma (Rutgers University), Yang&amp;nbsp;Zhang (CISPA Helmholtz Center for Information Security)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Application security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-2/</guid>
+      <description>Topics &amp;middot; Papers  Application securityFuzzing with Data Dependency InformationAlessandro&amp;nbsp;Mantovani (EURECOM), Andrea&amp;nbsp;Fioraldi (EURECOM), Davide&amp;nbsp;Balzarotti (EURECOM)
+HARM: Hardware-assisted Continuous Re-randomization for MicrocontrollersJiameng&amp;nbsp;Shi (University of Georgia), Le&amp;nbsp;Guan (University of Georgia), Wenqiang&amp;nbsp;Li (Institute of Information Engineering, Chinese Academy of Sciences / University of Georgia), Dayou&amp;nbsp;Zhang (University of Georgia), Ping&amp;nbsp;Chen (Institute for Big Data, Fudan University), Ning&amp;nbsp;Zhang (Washington University in St. Louis)
+Lightweight, Multi-Stage, Compiler-Assisted Application SpecializationMohannad&amp;nbsp;Alhanahnah (University of Wisconsin), Rithik&amp;nbsp;Jain (University of Wisconsin), Vaibhav&amp;nbsp;Rastogi (University of Wisconsin), Somesh&amp;nbsp;Jha (University of Wisconsin), Thomas&amp;nbsp;Reps (University of Wisconsin)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Attacks on systems</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-3/</guid>
+      <description>Topics &amp;middot; Papers  Attacks on systemsDNN Model Architecture Fingerprinting Attack on CPU-GPU Edge DevicesKartik&amp;nbsp;Patwari (University of California, Davis), Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz (University of California, Davis), Han&amp;nbsp;Wang (University of California, Davis), Houman&amp;nbsp;Homayoun (University of California, Davis), Zubair&amp;nbsp;Shafiq (University of California, Davis), Chen-Nee&amp;nbsp;Chuah (University of California, Davis)
+HyperLogLog: Exponentially Bad in Adversarial SettingsKenny&amp;nbsp;Paterson (ETH Zurich), Mathilde&amp;nbsp;Raynal (EPFL)
+LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University), Fan&amp;nbsp;Yao (University of Central Florida), Zhengkai&amp;nbsp;Zhang (Clemson University)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Authentication</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-4/</guid>
+      <description>Topics &amp;middot; Papers  AuthenticationLethe: Practical Data Breach Detection with Zero Persistent Secret StateAntreas&amp;nbsp;Dionysiou (University of Cyprus), Elias&amp;nbsp;Athanasopoulos (University of Cyprus)
+SoK: Oblivious Pseudorandom FunctionsSílvia&amp;nbsp;Casacuberta (Harvard University), Julia&amp;nbsp;Hesse (IBM Research Europe - Zurich), Anja&amp;nbsp;Lehmann (Hasso-Plattner-Institute, University of Potsdam)
+WatchAuth: User Authentication and Intent Recognition in Mobile Payments using a SmartwatchJack&amp;nbsp;Sturgess (University of Oxford), Simon&amp;nbsp;Eberz (University of Oxford), Ivo&amp;nbsp;Sluganovic (University of Oxford), Ivan&amp;nbsp;Martinovic (University of Oxford)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Blockchain and Cryptocurrency</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-5/</guid>
+      <description>Topics &amp;middot; Papers  Blockchain and CryptocurrencyCross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed CommitmentsYacov&amp;nbsp;Manevich (Haifa University), Adi&amp;nbsp;Akavia (Haifa University)
+SoK: Privacy-Preserving Computing in the Blockchain EraGhada&amp;nbsp;Almashaqbeh (University of Connecticut), Ravital&amp;nbsp;Solomon (Sunscreen)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Cryptographic approaches to to security and privacy</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-6/</guid>
+      <description>Topics &amp;middot; Papers  Cryptographic approaches to to security and privacyCostCO: An automatic cost modeling framework for secure multi-party computationVivian&amp;nbsp;Fang (UC Berkeley), Lloyd&amp;nbsp;Brown (UC Berkeley), William&amp;nbsp;Lin (UC Berkeley), Wenting&amp;nbsp;Zheng (UC Berkeley / CMU), Aurojit&amp;nbsp;Panda (NYU), Raluca&amp;nbsp;Popa (UC Berkeley)
+Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed CommitmentsYacov&amp;nbsp;Manevich (Haifa University), Adi&amp;nbsp;Akavia (Haifa University)
+EZEE: Epoch Parallel Zero Knowledge for ANSI CYibin&amp;nbsp;Yang (Georgia Institute of Technology), David&amp;nbsp;Heath (Georgia Institute of Technology), Vladimir&amp;nbsp;Kolesnikov (Georgia Institute of Technology), David&amp;nbsp;Devecsery (Facebook)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Distributed systems security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-7/</guid>
+      <description>Topics &amp;middot; Papers  Distributed systems securityHyperLogLog: Exponentially Bad in Adversarial SettingsKenny&amp;nbsp;Paterson (ETH Zurich), Mathilde&amp;nbsp;Raynal (EPFL)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Formal methods</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-8/</guid>
+      <description>Topics &amp;middot; Papers  Formal methodsCompositional Information Flow Monitoring for Reactive ProgramsMcKenna&amp;nbsp;McCall (Carnegie Mellon University), Abhishek&amp;nbsp;Bichhawat (Indian Institute of Technology Gandhinagar), Limin&amp;nbsp;Jia (Carnegie Mellon University)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Hardware security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-9/</guid>
+      <description>Topics &amp;middot; Papers  Hardware securityDNN Model Architecture Fingerprinting Attack on CPU-GPU Edge DevicesKartik&amp;nbsp;Patwari (University of California, Davis), Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz (University of California, Davis), Han&amp;nbsp;Wang (University of California, Davis), Houman&amp;nbsp;Homayoun (University of California, Davis), Zubair&amp;nbsp;Shafiq (University of California, Davis), Chen-Nee&amp;nbsp;Chuah (University of California, Davis)
+LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University), Fan&amp;nbsp;Yao (University of Central Florida), Zhengkai&amp;nbsp;Zhang (Clemson University)
+Signature Correction Attack on Dilithium Signature SchemeSaad&amp;nbsp;Islam (Worcester Polytechnic Institute), Koksal&amp;nbsp;Mus (Worcester Polytechnic Institute), Richa&amp;nbsp;Singh (Worcester Polytechnic Institute), Patrick&amp;nbsp;Schaumont (Worcester Polytechnic Institute), Berk&amp;nbsp;Sunar (Worcester Polytechnic Institute)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Intrusion detection</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-10/</guid>
+      <description>Topics &amp;middot; Papers  Intrusion detectionSIERRA: Ranking Anomalous Activities in Enterprise NetworksJehyun&amp;nbsp;Lee (Trustwave), Farren&amp;nbsp;Tang (Trustwave), Phyo&amp;nbsp;May&amp;nbsp;Thet (Institute for Infocomm Research - A*STAR), Desmond&amp;nbsp;Yeoh (Shopee), Mitch&amp;nbsp;Rybczynski (Trustwave), Dinil&amp;nbsp;Mon&amp;nbsp;Divakaran (Trustwave)
+SoK: The Impact of Unlabelled Data in Cyberthreat DetectionGiovanni&amp;nbsp;Apruzzese (University of Liechtenstein), Pavel&amp;nbsp;Laskov (University of Liechtenstein), Aliya&amp;nbsp;Tastemirova (University of Liechtenstein)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on IoT security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-11/</guid>
+      <description>Topics &amp;middot; Papers  IoT securityDifficult for Thee, But Not for Me: Measuring the Difficulty and User Experience of Remediating Persistent IoT MalwareElsa&amp;nbsp;Rodríguez (Delft University of Technology), Max&amp;nbsp;Fukkink (Delft University of Technology), Simon&amp;nbsp;Parkin (Delft University of Technology), Michel&amp;nbsp;van&amp;nbsp;Eeten (Delft University of Technology), Carlos&amp;nbsp;Hernandez&amp;nbsp;Ganan (Delft University of Technology)
+DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge DevicesKartik&amp;nbsp;Patwari (University of California, Davis), Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz (University of California, Davis), Han&amp;nbsp;Wang (University of California, Davis), Houman&amp;nbsp;Homayoun (University of California, Davis), Zubair&amp;nbsp;Shafiq (University of California, Davis), Chen-Nee&amp;nbsp;Chuah (University of California, Davis)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Language-based security and privacy</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-12/</guid>
+      <description>Topics &amp;middot; Papers  Language-based security and privacyCompositional Information Flow Monitoring for Reactive ProgramsMcKenna&amp;nbsp;McCall (Carnegie Mellon University), Abhishek&amp;nbsp;Bichhawat (Indian Institute of Technology Gandhinagar), Limin&amp;nbsp;Jia (Carnegie Mellon University)
+Dynamic Policies RevisitedAmir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology), Musard&amp;nbsp;Balliu (KTH Royal Institute of Technology)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Machine learning applications to security and privacy</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-13/</guid>
+      <description>Topics &amp;middot; Papers  Machine learning applications to security and privacyaaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHAMd&amp;nbsp;Imran&amp;nbsp;Hossen (University of Louisiana at Lafayette), Xiali&amp;nbsp;Hei (University of Louisiana at Lafayette)
+Captcha me if you can: Imitation Games with Reinforcement LearningIlias&amp;nbsp;Tsingenopoulos (imec-DistriNet, KU Leuven), Davy&amp;nbsp;Preuveneers (imec-DistriNet, KU Leuven), Lieven&amp;nbsp;Desmet (imec-DistriNet, KU Leuven), Wouter&amp;nbsp;Joosen (imec-DistriNet, KU Leuven)
+DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge DevicesKartik&amp;nbsp;Patwari (University of California, Davis), Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz (University of California, Davis), Han&amp;nbsp;Wang (University of California, Davis), Houman&amp;nbsp;Homayoun (University of California, Davis), Zubair&amp;nbsp;Shafiq (University of California, Davis), Chen-Nee&amp;nbsp;Chuah (University of California, Davis)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Machine learning privacy issues and methods</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-14/</guid>
+      <description>Topics &amp;middot; Papers  Machine learning privacy issues and methodsTransformer-based Extraction of Deep Image ModelsVerena&amp;nbsp;Battis (Fraunhofer SIT), Alexander&amp;nbsp;Penner (Technical University of Darmstadt)
+Unrolling SGD: Understanding Factors Influencing Machine UnlearningAnvith&amp;nbsp;Thudi (University of Toronto &amp; Vector Institute), Gabriel&amp;nbsp;Deza (University of Toronto &amp; Vector Institute), Varun&amp;nbsp;Chandrasekaran (University of Wisconsin), Nicolas&amp;nbsp;Papernot (University of Toronto &amp; Vector Institute)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Malware</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-15/</guid>
+      <description>Topics &amp;middot; Papers  MalwareDifficult for Thee, But Not for Me: Measuring the Difficulty and User Experience of Remediating Persistent IoT MalwareElsa&amp;nbsp;Rodríguez (Delft University of Technology), Max&amp;nbsp;Fukkink (Delft University of Technology), Simon&amp;nbsp;Parkin (Delft University of Technology), Michel&amp;nbsp;van&amp;nbsp;Eeten (Delft University of Technology), Carlos&amp;nbsp;Hernandez&amp;nbsp;Ganan (Delft University of Technology)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Measurement studies</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-16/</guid>
+      <description>Topics &amp;middot; Papers  Measurement studiesLaser Meager Listener: A Scientific Exploration of Laser-based Speech Eavesdropping in Commercial User SpacePayton&amp;nbsp;Walker (Texas A&amp;M University, College Station), Nitesh&amp;nbsp;Saxena (Texas A&amp;M University, College Station)
+SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Mobile security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-17/</guid>
+      <description>Topics &amp;middot; Papers  Mobile securitySAUSAGE: Security Analysis of Unix domain Socket Usage in AndroidMounir&amp;nbsp;Elgharabawy (Concordia University), Blas&amp;nbsp;Kojusner (University of Florida), Mohammad&amp;nbsp;Mannan (Concordia University), Kevin&amp;nbsp;R.&amp;nbsp;B.&amp;nbsp;Butler (University of Florida), Byron&amp;nbsp;Williams (University of Florida), Amr&amp;nbsp;Youssef (Concordia University)
+WatchAuth: User Authentication and Intent Recognition in Mobile Payments using a SmartwatchJack&amp;nbsp;Sturgess (University of Oxford), Simon&amp;nbsp;Eberz (University of Oxford), Ivo&amp;nbsp;Sluganovic (University of Oxford), Ivan&amp;nbsp;Martinovic (University of Oxford)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Network security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-18/</guid>
+      <description>Topics &amp;middot; Papers  Network securityHide and Seek: Revisiting DNS-based User TrackingDeliang&amp;nbsp;Chang (Tsinghua University), Joann&amp;nbsp;Qiongna&amp;nbsp;Chen (University of California, Irvine), Zhou&amp;nbsp;Li (University of California, Irvine), Xing&amp;nbsp;Li (Tsinghua University)
+HyperLogLog: Exponentially Bad in Adversarial SettingsKenny&amp;nbsp;Paterson (ETH Zurich), Mathilde&amp;nbsp;Raynal (EPFL)
+SIERRA: Ranking Anomalous Activities in Enterprise NetworksJehyun&amp;nbsp;Lee (Trustwave), Farren&amp;nbsp;Tang (Trustwave), Phyo&amp;nbsp;May&amp;nbsp;Thet (Institute for Infocomm Research - A*STAR), Desmond&amp;nbsp;Yeoh (Shopee), Mitch&amp;nbsp;Rybczynski (Trustwave), Dinil&amp;nbsp;Mon&amp;nbsp;Divakaran (Trustwave)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Privacy metrics</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-19/</guid>
+      <description>Topics &amp;middot; Papers  Privacy metricsKGP Meter: Communicating Kin Genomic Privacy to the MassesMathias&amp;nbsp;Humbert (Cyber-Defence Campus, armasuisse S+T), Didier&amp;nbsp;Dupertuis (EPFL), Mauro&amp;nbsp;Cherubini (University of Lausanne), Kévin&amp;nbsp;Huguenin (University of Lausanne)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Privacy-enhancing technologies</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-20/</guid>
+      <description>Topics &amp;middot; Papers  Privacy-enhancing technologiesHide and Seek: Revisiting DNS-based User TrackingDeliang&amp;nbsp;Chang (Tsinghua University), Joann&amp;nbsp;Qiongna&amp;nbsp;Chen (University of California, Irvine), Zhou&amp;nbsp;Li (University of California, Irvine), Xing&amp;nbsp;Li (Tsinghua University)
+SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)
+SoK: Cryptanalysis of Encrypted Search with LEAKER - A framework for LEakage AttacK Evaluation on Real-world dataSeny&amp;nbsp;Kamara (Brown University), Abdelkarim&amp;nbsp;Kati (Mohammed-VI Polytechnic University), Tarik&amp;nbsp;Moataz (Aroki Systems), Thomas&amp;nbsp;Schneider (TU Darmstadt), Amos&amp;nbsp;Treiber (TU Darmstadt), Michael&amp;nbsp;Yonli (TU Darmstadt)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Protocol security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-21/</guid>
+      <description>Topics &amp;middot; Papers  Protocol securityHyperLogLog: Exponentially Bad in Adversarial SettingsKenny&amp;nbsp;Paterson (ETH Zurich), Mathilde&amp;nbsp;Raynal (EPFL)
+Trampoline Over the Air: Breaking in IoT Devices Through MQTT BrokersHuikai&amp;nbsp;Xu (Institute for Network Science and Cyberspace, Tsinghua University), Miao&amp;nbsp;Yu (Institute for Network Science and Cyberspace, Tsinghua University), Yanhao&amp;nbsp;Wang (NIO Inc.), Yue&amp;nbsp;Liu (Southeast University / Qi An Xin Group Corp.), Qinsheng&amp;nbsp;Hou (Shandong University / Qi An Xin Group Corp.), Zhenbang&amp;nbsp;Ma (Qi An Xin Group Corp.), Haixin&amp;nbsp;Duan (Institute for Network Science and Cyberspace, Tsinghua University / Qi An Xin Group Corp.</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Secure information flow</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-22/</guid>
+      <description>Topics &amp;middot; Papers  Secure information flowCompositional Information Flow Monitoring for Reactive ProgramsMcKenna&amp;nbsp;McCall (Carnegie Mellon University), Abhishek&amp;nbsp;Bichhawat (Indian Institute of Technology Gandhinagar), Limin&amp;nbsp;Jia (Carnegie Mellon University)
+Dynamic Policies RevisitedAmir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology), Musard&amp;nbsp;Balliu (KTH Royal Institute of Technology)
+SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)
+Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained Decentralized Information Flow ControlJason&amp;nbsp;Liu (University of Illinois at Urbana-Champaign), Anant&amp;nbsp;Kandikuppa (University of Illinois at Urbana-Champaign), Adam&amp;nbsp;Bates (University of Illinois at Urbana-Champaign)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Security and privacy policies</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-23/</guid>
+      <description>Topics &amp;middot; Papers  Security and privacy policiesSoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Security architectures</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-24/</guid>
+      <description>Topics &amp;middot; Papers  Security architecturesxTag: Mitigating Use-After-Free Vulnerabilitiesvia Software-Based Pointer Tagging on Intel x86-64Lukas&amp;nbsp;Bernhard (Ruhr-University Bochum), Michael&amp;nbsp;Rodler (University of Duisburg-Essen), Thorsten&amp;nbsp;Holz (Ruhr-University Bochum), Lucas&amp;nbsp;Davi (University of Duisburg-Essen)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on System security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-25/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-25/</guid>
+      <description>Topics &amp;middot; Papers  System securityHARM: Hardware-assisted Continuous Re-randomization for MicrocontrollersJiameng&amp;nbsp;Shi (University of Georgia), Le&amp;nbsp;Guan (University of Georgia), Wenqiang&amp;nbsp;Li (Institute of Information Engineering, Chinese Academy of Sciences / University of Georgia), Dayou&amp;nbsp;Zhang (University of Georgia), Ping&amp;nbsp;Chen (Institute for Big Data, Fudan University), Ning&amp;nbsp;Zhang (Washington University in St. Louis)
+LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University), Fan&amp;nbsp;Yao (University of Central Florida), Zhengkai&amp;nbsp;Zhang (Clemson University)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Usability</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-26/</guid>
+      <description>Topics &amp;middot; Papers  UsabilityDifficult for Thee, But Not for Me: Measuring the Difficulty and User Experience of Remediating Persistent IoT MalwareElsa&amp;nbsp;Rodríguez (Delft University of Technology), Max&amp;nbsp;Fukkink (Delft University of Technology), Simon&amp;nbsp;Parkin (Delft University of Technology), Michel&amp;nbsp;van&amp;nbsp;Eeten (Delft University of Technology), Carlos&amp;nbsp;Hernandez&amp;nbsp;Ganan (Delft University of Technology)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Web privacy</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-27/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-27/</guid>
+      <description>Topics &amp;middot; Papers  Web privacySoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)
+SoK: Oblivious Pseudorandom FunctionsSílvia&amp;nbsp;Casacuberta (Harvard University), Julia&amp;nbsp;Hesse (IBM Research Europe - Zurich), Anja&amp;nbsp;Lehmann (Hasso-Plattner-Institute, University of Potsdam)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Web security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-28/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-28/</guid>
+      <description>Topics &amp;middot; Papers  Web securityaaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHAMd&amp;nbsp;Imran&amp;nbsp;Hossen (University of Louisiana at Lafayette), Xiali&amp;nbsp;Hei (University of Louisiana at Lafayette)
+Captcha me if you can: Imitation Games with Reinforcement LearningIlias&amp;nbsp;Tsingenopoulos (imec-DistriNet, KU Leuven), Davy&amp;nbsp;Preuveneers (imec-DistriNet, KU Leuven), Lieven&amp;nbsp;Desmet (imec-DistriNet, KU Leuven), Wouter&amp;nbsp;Joosen (imec-DistriNet, KU Leuven)
+Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer FunctionsDavid&amp;nbsp;Klein (Technische Universität Braunschweig), Thomas&amp;nbsp;Barber (SAP Security Research), Souphiane&amp;nbsp;Bensalim (SAP Security Research), Ben&amp;nbsp;Stock (CISPA Helmholtz Center for Information Security), Martin&amp;nbsp;Johns (TU Braunschweig)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Papers on Web security</title>
+      <link>https://ieeeeurosp.github.io/2022/topic-29/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topic-29/</guid>
+      <description>Topics &amp;middot; Papers  Web securityCaptcha me if you can: Imitation Games with Reinforcement LearningIlias&amp;nbsp;Tsingenopoulos (imec-DistriNet, KU Leuven), Davy&amp;nbsp;Preuveneers (imec-DistriNet-KU Leuven), Lieven&amp;nbsp;Desmet (imec-DistriNet-KU Leuven), Wouter&amp;nbsp;Joosen (imec-DistriNet-KU Leuven)
+Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer FunctionsDavid&amp;nbsp;Klein (Technische Universität Braunschweig), Thomas&amp;nbsp;Barber (SAP Security Research), Souphiane&amp;nbsp;Bensalim (SAP Security Research), Ben&amp;nbsp;Stock (CISPA Helmholtz Center for Information Security), Martin&amp;nbsp;Johns (TU Braunschweig)
+Lethe: Practical Data Breach Detection with Zero Persistent Secret StateAntreas&amp;nbsp;Dionysiou (University of Cyprus), Elias&amp;nbsp;Athanasopoulos (University of Cyprus)</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Topics</title>
+      <link>https://ieeeeurosp.github.io/2022/fulltopics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/fulltopics/</guid>
+      <description>Topics are based on selections by the authors. The same paper may be listed under multiple topics. Access control SAUSAGE: Security Analysis of Unix domain Socket Usage in Android (Mounir&amp;nbsp;Elgharabawy, Blas&amp;nbsp;Kojusner, Mohammad&amp;nbsp;Mannan, Kevin&amp;nbsp;R.&amp;nbsp;B.&amp;nbsp;Butler, Byron&amp;nbsp;Williams, Amr&amp;nbsp;Youssef)  Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained Decentralized Information Flow Control (Jason&amp;nbsp;Liu, Anant&amp;nbsp;Kandikuppa, Adam&amp;nbsp;Bates)  Adversarial Machine Learning aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA (Md&amp;nbsp;Imran&amp;nbsp;Hossen, Xiali&amp;nbsp;Hei)  Captcha me if you can: Imitation Games with Reinforcement Learning (Ilias&amp;nbsp;Tsingenopoulos, Davy&amp;nbsp;Preuveneers, Lieven&amp;nbsp;Desmet, Wouter&amp;nbsp;Joosen)  Dynamic Backdoor Attacks Against Machine Learning Models (Ahmed&amp;nbsp;Salem, Rui&amp;nbsp;Wen, Michael&amp;nbsp;Backes, Shiqing&amp;nbsp;Ma, Yang&amp;nbsp;Zhang)  GRAPHITE: Generating Automatic Physical Examples for Machine-Learning Attacks on Computer Vision Systems (Ryan&amp;nbsp;Feng, Neal&amp;nbsp;Mangaokar, Jiefeng&amp;nbsp;Chen, Earlence&amp;nbsp;Fernandes, Somesh&amp;nbsp;Jha, Atul&amp;nbsp;Prakash)  Towards Fair and Robust Classification (Haipei&amp;nbsp;Sun, Kun&amp;nbsp;Wu, Ting&amp;nbsp;Wang, Hui&amp;nbsp;(Wendy)&amp;nbsp;Wang)  TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors (Ren&amp;nbsp;Pang, Zheng&amp;nbsp;Zhang, Xiangshan&amp;nbsp;Gao, Zhaohan&amp;nbsp;Xi, Shouling&amp;nbsp;Ji, Peng&amp;nbsp;Cheng, Xiapu&amp;nbsp;Luo, Ting&amp;nbsp;Wang)  Application security Fuzzing with Data Dependency Information (Alessandro&amp;nbsp;Mantovani, Andrea&amp;nbsp;Fioraldi, Davide&amp;nbsp;Balzarotti)  HARM: Hardware-assisted Continuous Re-randomization for Microcontrollers (Jiameng&amp;nbsp;Shi, Le&amp;nbsp;Guan, Wenqiang&amp;nbsp;Li, Dayou&amp;nbsp;Zhang, Ping&amp;nbsp;Chen, Ning&amp;nbsp;Zhang)  Lightweight, Multi-Stage, Compiler-Assisted Application Specialization (Mohannad&amp;nbsp;Alhanahnah, Rithik&amp;nbsp;Jain, Vaibhav&amp;nbsp;Rastogi, Somesh&amp;nbsp;Jha, Thomas&amp;nbsp;Reps)  xTag: Mitigating Use-After-Free Vulnerabilitiesvia Software-Based Pointer Tagging on Intel x86-64 (Lukas&amp;nbsp;Bernhard, Michael&amp;nbsp;Rodler, Thorsten&amp;nbsp;Holz, Lucas&amp;nbsp;Davi)  Attacks on systems DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices (Kartik&amp;nbsp;Patwari, Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz, Han&amp;nbsp;Wang, Houman&amp;nbsp;Homayoun, Zubair&amp;nbsp;Shafiq, Chen-Nee&amp;nbsp;Chuah)  HyperLogLog: Exponentially Bad in Adversarial Settings (Kenny&amp;nbsp;Paterson, Mathilde&amp;nbsp;Raynal)  LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and Profit (Mert&amp;nbsp;Side, Fan&amp;nbsp;Yao, Zhengkai&amp;nbsp;Zhang)  SAUSAGE: Security Analysis of Unix domain Socket Usage in Android (Mounir&amp;nbsp;Elgharabawy, Blas&amp;nbsp;Kojusner, Mohammad&amp;nbsp;Mannan, Kevin&amp;nbsp;R.</description>
+    </item>
+    
+    <item>
+      <title>IEEE EuroS&amp;P 2022 - Topics</title>
+      <link>https://ieeeeurosp.github.io/2022/topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
+      <guid>https://ieeeeurosp.github.io/2022/topics/</guid>
+      <description>Complete List of Papers by Topic &amp;middot; List By Authors &amp;middot; Institutions
+Access control
+Adversarial Machine Learning
+Application security
+Attacks on systems
+Authentication
+Blockchain and Cryptocurrency
+Cryptographic approaches to to security and privacy
+Distributed systems security
+Formal methods
+Hardware security
+Intrusion detection
+IoT security
+Language-based security and privacy
+Machine learning applications to security and privacy
+Machine learning privacy issues and methods
+Malware
+Measurement studies
+Mobile security
+Network security
+Privacy metrics</description>
+    </item>
+    
+  </channel>
+</rss>

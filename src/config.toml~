@@ -1,0 +1,46 @@
+baseurl = "https://ieeeeurosp.github.io"
+languageCode = "en-us"
+title = "IEEE Euro S&P Chair's Site"
+subtitle = "European Symposium on Security and Privacy"
+copyright = ""
+theme = "eurosp"
+
+paginate = 10
+paginatePath = "page"
+
+pageNotFoundTitle = "Not Found"
+pageNotFoundDetail = "The in-the-middle attacker who is attacking your connection did not anticipate this action. This is most likely a bad link, although it is possible you have found a vulnerability in the Cantor Continuum."
+
+[permalinks]
+    post = "/:slug/"
+    code = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "Euro S&P Program Chairs"
+    email = "evans@virginia.edu"
+
+[params]
+    brand = "IEEE EuroS&P"
+    topline = "IEEE European Symposium on Security and Privacy"
+    footline = "<p align=\"center\"><a href=\"https://www.ieee-security.org/TC/EuroSP2022/\">IEEE Euro S&amp;P 2022</a> &middot; <a href=\"https://ieeeeurosp.github.io\">Program Chairs' Site</a></p>"
+    nodate = true
+    noauthor = true
+    noread = true
+    nopaging=true
+    notoc=true
+
+[blackfriday]
+    angledQuotes = false
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+
+[[menu.footer]]

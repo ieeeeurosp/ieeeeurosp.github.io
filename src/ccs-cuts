@@ -1,0 +1,78 @@
+
+      
+    print("Writing institutions.html...")
+    with open("institutions.html", "w") as f:
+      f.write("""
++++
+title = "CCS 2017 - Institutions"
+author = "CCS PC Chairs"
++++
+<p align=center><a href="/papers"><b>List of Accepted Papers</b></a> &middot; <a href="/authors"><b>Authors</b></a></p>
+<p>
+Insitutions affiliated with authors of papers accepted to the 24<sup>th</sup> ACM Conference on Computer and Communications Security
+</p>
+
+""")
+
+      f.write("""   <table class="papers"> """)
+      shading = False
+      for institution in institutions:
+          # print("Institution: " + str(institution))
+          f.write(("<tr>" if shading else "<tr bgcolor=\"E6E6FA\">") + '<td width="35%"><span class="author">' + str(institution[0]) + "</span></td><td>")
+          papers = institution[1]
+          papers.sort(key = lambda p: p["Authors"])
+          for paper in papers:
+              # print("Paper: " + str(list(paper.items())))
+              # f.write('<p class="hanging">' + generate_short(paper["Title"], paper["Authors"]) + "</p>")
+              assert len(paper["Authors"]) > 5
+              # f.write('<div class="hanging">' + paper["Authors"] + ". " + "<em>" + paper["Title"] + "</em>.</div>")
+              f.write('<div class="hanging">' + generate_paper(paper) + "</div>")
+          f.write("</td></tr>")
+          shading = not shading
+      f.write(""" </table>""")
+
+    print("Writing topics.html...")
+    with open("topics.html", "w") as f:
+      f.write("""
++++
+title = "CCS 2017 - Topics"
+author = "CCS PC Chairs"
++++
+""")
+      topiclist = list(topics.keys())
+      topiclist.sort()
+      with open("fulltopics.html", "w") as ff:
+          ff.write("""
++++
+title = "CCS 2017 - Topics"
+author = "CCS PC Chairs"
++++
+<p>
+""")
+
+          for topici in range(len(topiclist)):
+              topic = topiclist[topici]
+              print("Topic: " + topic)
+              fshead = "<a href=\"/topic-" + str(topici) + "\"><b>" + topic + "</b></a>" 
+              f.write(fshead + '<br>')
+              ff.write("<p>" + fshead + ' ')
+              ff.write('<br>')
+              with open("topic-" + str(topici) + ".md", "w") as fs:
+                  fs.write("""+++
+title = "CCS 2017 - Papers on """ + topic + """"
+author= "CCS PC Chairs"
++++
+<center><a href="/topics"><b>Topics</b></a> &middot; <a href="/papers"><b>Papers</b></a></center>
+<p>
+<h2>""" + topic + "</h2>")
+                  spapers = topics[topic]['papers']
+                  spapers.sort(key = lambda p: p["SessionOrder"])
+                  for paper in spapers:
+                      fs.write("<div class=\"bpaper\">");
+                      fs.write(generate_fullt_paper(paper, inSession=False))
+                      fs.write("</div>");
+
+                      ff.write("<div class=\"hanging\">")
+                      ff.write(generate_shortt_paper(paper))
+                      ff.write("</div>\n")
+              ff.write("</p>")
