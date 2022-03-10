@@ -112,6 +112,8 @@ def read_papers(fname):
         # remove affiliations
         nauthors = []
         fauthors = []
+        if '),' in authors:
+            print ("Problem: " + authors)
         for author in authors.split('; '):
             # print("Authors: " + author)
             anames = author.strip()
@@ -120,7 +122,7 @@ def read_papers(fname):
                 affend = anames.find(')', affiliation)
                 iname = anames[(affiliation + 1):affend]
                 if iname[0] == '[': # handle multiple affiliations
-                    print ("maffiliations: " + iname)
+                    # print ("maffiliations: " + iname)
                     assert iname[-1] == ']'
                     maffiliations = iname[1:-1]
                     affs = []
@@ -213,7 +215,7 @@ def paper_available(paper):
     if "PaperURL" in paper:
         paperurl = paper["PaperURL"].strip()
         if len(paperurl) > 0:
-            print ("Paperurl: " + paperurl)
+            # print ("Paperurl: " + paperurl)
             assert (paperurl.startswith("http://") or paperurl.startswith("https://"))
             return paperurl
 

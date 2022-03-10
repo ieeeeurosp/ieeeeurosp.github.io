@@ -19,7 +19,7 @@
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/artifacts/</guid>
       <description>The following papers have artifacts available (in accordance with our Open Science expectations). All Papers &amp;middot; List By Authors &amp;middot; Institutions
-aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA [Paper] Artifact:&amp;nbsp;https://github.com/i-hossen/aaeCaptchaMd&amp;nbsp;Imran&amp;nbsp;Hossen, Xiali&amp;nbsp;HeiCaptcha me if you can: Imitation Games with Reinforcement Learning Artifact:&amp;nbsp;https://github.com/itsiggen/reCaptchaIlias&amp;nbsp;Tsingenopoulos, Davy&amp;nbsp;Preuveneers, Lieven&amp;nbsp;Desmet, Wouter&amp;nbsp;JoosenCompositional Information Flow Monitoring for Reactive Programs [Paper] Artifact:&amp;nbsp;https://github.com/CompIFC/comp-model/releases/tag/eurosp22McKenna&amp;nbsp;McCall, Abhishek&amp;nbsp;Bichhawat, Limin&amp;nbsp;JiaCostCO: An automatic cost modeling framework for secure multi-party computation Artifact:&amp;nbsp;https://github.com/ucbrise/costcoVivian&amp;nbsp;FangCross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments Artifact:&amp;nbsp;https://github.</description>
+aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA [Paper] Artifact:&amp;nbsp;https://github.com/i-hossen/aaeCaptchaMd&amp;nbsp;Imran&amp;nbsp;Hossen, Xiali&amp;nbsp;HeiCaptcha me if you can: Imitation Games with Reinforcement Learning Artifact:&amp;nbsp;https://github.com/itsiggen/reCaptchaIlias&amp;nbsp;Tsingenopoulos, Davy&amp;nbsp;Preuveneers, Lieven&amp;nbsp;Desmet, Wouter&amp;nbsp;JoosenCompositional Information Flow Monitoring for Reactive Programs [Paper] Artifact:&amp;nbsp;https://github.com/CompIFC/comp-model/releases/tag/eurosp22McKenna&amp;nbsp;McCall, Abhishek&amp;nbsp;Bichhawat, Limin&amp;nbsp;JiaCostCO: An automatic cost modeling framework for secure multi-party computation Artifact:&amp;nbsp;https://github.com/ucbrise/costcoVivian&amp;nbsp;Fang, Lloyd&amp;nbsp;Brown, William&amp;nbsp;Lin, Wenting&amp;nbsp;Zheng, Aurojit&amp;nbsp;Panda, Raluca&amp;nbsp;Ada&amp;nbsp;PopaCross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments Artifact:&amp;nbsp;https://github.</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@ aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA Open Pape
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/papers/</guid>
       <description>The following papers have been accepted to the 7th IEEE European Symposium on Security and Privacy to be held June 6-10, 2022 in Genoa, Italy. List By Authors &amp;middot; Institutions &amp;middot; Papers by Topic &amp;middot; Papers with Artifacts &amp;middot; Open Papers
-aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA [Paper] [Artifact]Md&amp;nbsp;Imran&amp;nbsp;Hossen, Xiali&amp;nbsp;HeiCaptcha me if you can: Imitation Games with Reinforcement Learning [Artifact]Ilias&amp;nbsp;Tsingenopoulos, Davy&amp;nbsp;Preuveneers, Lieven&amp;nbsp;Desmet, Wouter&amp;nbsp;JoosenCompositional Information Flow Monitoring for Reactive Programs [Paper] [Artifact]McKenna&amp;nbsp;McCall, Abhishek&amp;nbsp;Bichhawat, Limin&amp;nbsp;JiaCostCO: An automatic cost modeling framework for secure multi-party computation [Artifact]Vivian&amp;nbsp;FangCross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments [Artifact]Yacov&amp;nbsp;ManevichDifficult for Thee, But Not for Me: Measuring the Difficulty and User Experience of Remediating Persistent IoT Malware [Paper]Elsa&amp;nbsp;Rodríguez, Max&amp;nbsp;Fukkink, Simon&amp;nbsp;Parkin, Michel&amp;nbsp;van&amp;nbsp;Eeten, Carlos&amp;nbsp;GañánDNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices [Artifact]Kartik&amp;nbsp;Patwari, Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz, Han&amp;nbsp;Wang, Houman&amp;nbsp;Homayoun, Zubair&amp;nbsp;Shafiq, Chen-Nee&amp;nbsp;ChuahDynamic Backdoor Attacks Against Machine Learning Models [Paper] [Artifact]Ahmed&amp;nbsp;Salem, Rui&amp;nbsp;Wen, Michael&amp;nbsp;Backes, Shiqing&amp;nbsp;Ma, Yang&amp;nbsp;ZhangDynamic Policies Revisited [Artifact]Amir&amp;nbsp;M.</description>
+aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA [Paper] [Artifact]Md&amp;nbsp;Imran&amp;nbsp;Hossen, Xiali&amp;nbsp;HeiCaptcha me if you can: Imitation Games with Reinforcement Learning [Artifact]Ilias&amp;nbsp;Tsingenopoulos, Davy&amp;nbsp;Preuveneers, Lieven&amp;nbsp;Desmet, Wouter&amp;nbsp;JoosenCompositional Information Flow Monitoring for Reactive Programs [Paper] [Artifact]McKenna&amp;nbsp;McCall, Abhishek&amp;nbsp;Bichhawat, Limin&amp;nbsp;JiaCostCO: An automatic cost modeling framework for secure multi-party computation [Artifact]Vivian&amp;nbsp;Fang, Lloyd&amp;nbsp;Brown, William&amp;nbsp;Lin, Wenting&amp;nbsp;Zheng, Aurojit&amp;nbsp;Panda, Raluca&amp;nbsp;Ada&amp;nbsp;PopaCross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments [Artifact]Yacov&amp;nbsp;Manevich, Adi&amp;nbsp;AkaviaDifficult for Thee, But Not for Me: Measuring the Difficulty and User Experience of Remediating Persistent IoT Malware [Paper]Elsa&amp;nbsp;Rodríguez, Max&amp;nbsp;Fukkink, Simon&amp;nbsp;Parkin, Michel&amp;nbsp;van&amp;nbsp;Eeten, Carlos&amp;nbsp;GañánDNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices [Artifact]Kartik&amp;nbsp;Patwari, Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz, Han&amp;nbsp;Wang, Houman&amp;nbsp;Homayoun, Zubair&amp;nbsp;Shafiq, Chen-Nee&amp;nbsp;ChuahDynamic Backdoor Attacks Against Machine Learning Models [Paper] [Artifact]Ahmed&amp;nbsp;Salem, Rui&amp;nbsp;Wen, Michael&amp;nbsp;Backes, Shiqing&amp;nbsp;Ma, Yang&amp;nbsp;ZhangDynamic Policies Revisited [Artifact]Amir&amp;nbsp;M.</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA [Paper] [
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/authors/</guid>
-      <description>Papers &amp;middot; Institutions &amp;middot; Papers by Topic Amir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology)Amir&amp;nbsp;M.&amp;nbsp;Ahmadian. Dynamic Policies Revisited [Artifact]Mohannad&amp;nbsp;Alhanahnah (University of Wisconsin)Mohannad&amp;nbsp;Alhanahnah, Rithik&amp;nbsp;Jain, Vaibhav&amp;nbsp;Rastogi, Somesh&amp;nbsp;Jha, Thomas&amp;nbsp;Reps. Lightweight, Multi-Stage, Compiler-Assisted Application Specialization [Paper] [Artifact]Ghada&amp;nbsp;Almashaqbeh (University of Connecticut)Ghada&amp;nbsp;Almashaqbeh. SoK: Privacy-Preserving Computing in the Blockchain Era [Paper]Giovanni&amp;nbsp;Apruzzese (University of Liechtenstein)Giovanni&amp;nbsp;Apruzzese, Pavel&amp;nbsp;Laskov, Aliya&amp;nbsp;Tastemirova. SoK: The Impact of Unlabelled Data in Cyberthreat Detection [Artifact]Elias&amp;nbsp;Athanasopoulos (University of Cyprus)Antreas&amp;nbsp;Dionysiou, Elias&amp;nbsp;Athanasopoulos. Lethe: Practical Data Breach Detection with Zero Persistent Secret State [Artifact]Michael&amp;nbsp;Backes (CISPA Helmholtz Center for Information Security)Ahmed&amp;nbsp;Salem, Rui&amp;nbsp;Wen, Michael&amp;nbsp;Backes, Shiqing&amp;nbsp;Ma, Yang&amp;nbsp;Zhang.</description>
+      <description>Papers &amp;middot; Institutions &amp;middot; Papers by Topic Amir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology)Amir&amp;nbsp;M.&amp;nbsp;Ahmadian, Musard&amp;nbsp;Balliu. Dynamic Policies Revisited [Artifact]Adi&amp;nbsp;Akavia (University of Haifa)Yacov&amp;nbsp;Manevich, Adi&amp;nbsp;Akavia. Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed Commitments [Artifact]Mohannad&amp;nbsp;Alhanahnah (University of Wisconsin)Mohannad&amp;nbsp;Alhanahnah, Rithik&amp;nbsp;Jain, Vaibhav&amp;nbsp;Rastogi, Somesh&amp;nbsp;Jha, Thomas&amp;nbsp;Reps. Lightweight, Multi-Stage, Compiler-Assisted Application Specialization [Paper] [Artifact]Ghada&amp;nbsp;Almashaqbeh (University of Connecticut)Ghada&amp;nbsp;Almashaqbeh, Ravital&amp;nbsp;Solomon. SoK: Privacy-Preserving Computing in the Blockchain Era [Paper]Giovanni&amp;nbsp;Apruzzese (University of Liechtenstein)Giovanni&amp;nbsp;Apruzzese, Pavel&amp;nbsp;Laskov, Aliya&amp;nbsp;Tastemirova. SoK: The Impact of Unlabelled Data in Cyberthreat Detection [Artifact]Elias&amp;nbsp;Athanasopoulos (University of Cyprus)Antreas&amp;nbsp;Dionysiou, Elias&amp;nbsp;Athanasopoulos.</description>
     </item>
     
     <item>
@@ -95,14 +95,9 @@ Dynamic Backdoor Attacks Against Machine Learning ModelsAhmed&amp;nbsp;Salem (CI
       <guid>https://ieeeeurosp.github.io/2022/topic-2/</guid>
       <description>Topics &amp;middot; Papers  Application securityFuzzing with Data Dependency InformationAlessandro&amp;nbsp;Mantovani (EURECOM), Andrea&amp;nbsp;Fioraldi (EURECOM), Davide&amp;nbsp;Balzarotti (EURECOM)
 [Artifact]
-HARM: Hardware-assisted Continuous Re-randomization for MicrocontrollersJiameng&amp;nbsp;Shi (University of Georgia)
+HARM: Hardware-assisted Continuous Re-randomization for MicrocontrollersJiameng&amp;nbsp;Shi (University of Georgia), Le&amp;nbsp;Guan (University of Georgia), Wenqiang&amp;nbsp;Li (Chinese Academy of Sciences), Dayou&amp;nbsp;Zhang (University of Georgia), Ping&amp;nbsp;Chen (Fudan University), Ning&amp;nbsp;Zhang (Washington University in St. Louis)
 [Artifact]
-Lightweight, Multi-Stage, Compiler-Assisted Application SpecializationMohannad&amp;nbsp;Alhanahnah (University of Wisconsin), Rithik&amp;nbsp;Jain (University of Wisconsin), Vaibhav&amp;nbsp;Rastogi (University of Wisconsin), Somesh&amp;nbsp;Jha (University of Wisconsin), Thomas&amp;nbsp;Reps (University of Wisconsin)
-[Paper]
-[Artifact]
-xTag: Mitigating Use-After-Free Vulnerabilities via Software-Based Pointer Tagging on Intel x86-64Lukas&amp;nbsp;Bernhard (Ruhr University Bochum)
-[Paper]
-[Artifact]</description>
+Lightweight, Multi-Stage, Compiler-Assisted Application SpecializationMohannad&amp;nbsp;Alhanahnah (University of Wisconsin), Rithik&amp;nbsp;Jain (University of Wisconsin), Vaibhav&amp;nbsp;Rastogi (University of Wisconsin), Somesh&amp;nbsp;Jha (University of Wisconsin), Thomas&amp;nbsp;Reps (University of Wisconsin)</description>
     </item>
     
     <item>
@@ -116,7 +111,7 @@ xTag: Mitigating Use-After-Free Vulnerabilities via Software-Based Pointer Taggi
 HyperLogLog: Exponentially Bad in Adversarial SettingsKenneth&amp;nbsp;G.&amp;nbsp;Paterson (ETH Zurich), Mathilde&amp;nbsp;Raynal (EPFL)
 [Paper]
 [Artifact]
-LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University)</description>
+LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University), Fan&amp;nbsp;Yao (University of Central Florida), Zhenkai&amp;nbsp;Zhang (Clemson University)</description>
     </item>
     
     <item>
@@ -139,9 +134,9 @@ WatchAuth: User Authentication and Intent Recognition in Mobile Payments using a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/topic-5/</guid>
-      <description>Topics &amp;middot; Papers  Blockchain and CryptocurrencyCross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed CommitmentsYacov&amp;nbsp;Manevich (University of Haifa)
+      <description>Topics &amp;middot; Papers  Blockchain and CryptocurrencyCross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed CommitmentsYacov&amp;nbsp;Manevich (University of Haifa), Adi&amp;nbsp;Akavia (University of Haifa)
 [Artifact]
-SoK: Privacy-Preserving Computing in the Blockchain EraGhada&amp;nbsp;Almashaqbeh (University of Connecticut)
+SoK: Privacy-Preserving Computing in the Blockchain EraGhada&amp;nbsp;Almashaqbeh (University of Connecticut), Ravital&amp;nbsp;Solomon (Sunscreen)
 [Paper]</description>
     </item>
     
@@ -151,13 +146,11 @@ SoK: Privacy-Preserving Computing in the Blockchain EraGhada&amp;nbsp;Almashaqbe
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/topic-6/</guid>
-      <description>Topics &amp;middot; Papers  Cryptographic approaches to to security and privacyCostCO: An automatic cost modeling framework for secure multi-party computationVivian&amp;nbsp;Fang (UC Berkeley)
+      <description>Topics &amp;middot; Papers  Cryptographic approaches to to security and privacyCostCO: An automatic cost modeling framework for secure multi-party computationVivian&amp;nbsp;Fang (UC Berkeley), Lloyd&amp;nbsp;Brown (UC Berkeley), William&amp;nbsp;Lin (UC Berkeley), Wenting&amp;nbsp;Zheng (Carnegie Mellon University), Aurojit&amp;nbsp;Panda (NYU), Raluca&amp;nbsp;Ada&amp;nbsp;Popa (UC Berkeley)
 [Artifact]
-Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed CommitmentsYacov&amp;nbsp;Manevich (University of Haifa)
+Cross Chain Atomic Swaps in the Absence of Time via Attribute Verifiable Timed CommitmentsYacov&amp;nbsp;Manevich (University of Haifa), Adi&amp;nbsp;Akavia (University of Haifa)
 [Artifact]
-EZEE: Epoch Parallel Zero Knowledge for ANSI CYibin&amp;nbsp;Yang (Georgia Tech), David&amp;nbsp;Heath (Georgia Tech), Vladimir&amp;nbsp;Kolesnikov (Georgia Tech), David&amp;nbsp;Devecsery (Facebook)
-HyperLogLog: Exponentially Bad in Adversarial SettingsKenneth&amp;nbsp;G.&amp;nbsp;Paterson (ETH Zurich), Mathilde&amp;nbsp;Raynal (EPFL)
-[Paper]</description>
+EZEE: Epoch Parallel Zero Knowledge for ANSI CYibin&amp;nbsp;Yang (Georgia Tech), David&amp;nbsp;Heath (Georgia Tech), Vladimir&amp;nbsp;Kolesnikov (Georgia Tech), David&amp;nbsp;Devecsery (Facebook)</description>
     </item>
     
     <item>
@@ -190,7 +183,7 @@ HyperLogLog: Exponentially Bad in Adversarial SettingsKenneth&amp;nbsp;G.&amp;nb
       <guid>https://ieeeeurosp.github.io/2022/topic-9/</guid>
       <description>Topics &amp;middot; Papers  Hardware securityDNN Model Architecture Fingerprinting Attack on CPU-GPU Edge DevicesKartik&amp;nbsp;Patwari (University of California, Davis), Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz (University of California, Davis), Han&amp;nbsp;Wang (University of California, Davis), Houman&amp;nbsp;Homayoun (University of California, Davis), Zubair&amp;nbsp;Shafiq (University of California, Davis), Chen-Nee&amp;nbsp;Chuah (University of California, Davis)
 [Artifact]
-LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University)
+LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University), Fan&amp;nbsp;Yao (University of Central Florida), Zhenkai&amp;nbsp;Zhang (Clemson University)
 [Artifact]
 Signature Correction Attack on Dilithium Signature SchemeSaad&amp;nbsp;Islam (Worcester Polytechnic Institute), Koksal&amp;nbsp;Mus (Worcester Polytechnic Institute), Richa&amp;nbsp;Singh (Worcester Polytechnic Institute), Patrick&amp;nbsp;Schaumont (Worcester Polytechnic Institute), Berk&amp;nbsp;Sunar (Worcester Polytechnic Institute)</description>
     </item>
@@ -226,7 +219,7 @@ DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge DevicesKartik&amp;n
       <description>Topics &amp;middot; Papers  Language-based security and privacyCompositional Information Flow Monitoring for Reactive ProgramsMcKenna&amp;nbsp;McCall (Carnegie Mellon University), Abhishek&amp;nbsp;Bichhawat (Indian Institute of Technology Gandhinagar), Limin&amp;nbsp;Jia (Carnegie Mellon University)
 [Paper]
 [Artifact]
-Dynamic Policies RevisitedAmir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology)
+Dynamic Policies RevisitedAmir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology), Musard&amp;nbsp;Balliu (KTH Royal Institute of Technology)
 [Artifact]</description>
     </item>
     
@@ -273,9 +266,9 @@ Unrolling SGD: Understanding Factors Influencing Machine UnlearningAnvith&amp;nb
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/topic-16/</guid>
-      <description>Topics &amp;middot; Papers  Measurement studiesLaser Meager Listener: A Scientific Exploration of Laser-based Speech Eavesdropping in Commercial User SpacePayton&amp;nbsp;Walker (Texas A&amp;M University)
+      <description>Topics &amp;middot; Papers  Measurement studiesLaser Meager Listener: A Scientific Exploration of Laser-based Speech Eavesdropping in Commercial User SpacePayton&amp;nbsp;Walker (Texas A&amp;M University), Nitesh&amp;nbsp;Saxena (Texas A&amp;M University)
 [Artifact]
-SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University)
+SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)
 [Artifact]</description>
     </item>
     
@@ -324,7 +317,7 @@ SIERRA: Ranking Anomalous Activities in Enterprise NetworksJehyun&amp;nbsp;Lee (
       <guid>https://ieeeeurosp.github.io/2022/topic-20/</guid>
       <description>Topics &amp;middot; Papers  Privacy-enhancing technologiesHide and Seek: Revisiting DNS-based User TrackingDeliang&amp;nbsp;Chang (Tsinghua University), Joann&amp;nbsp;Qiongna&amp;nbsp;Chen (University of California, Irvine), Zhou&amp;nbsp;Li (University of California, Irvine), Xing&amp;nbsp;Li (Tsinghua University)
 [Artifact]
-SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University)
+SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)
 [Artifact]
 SoK: Cryptanalysis of Encrypted Search with LEAKER - A framework for LEakage AttacK Evaluation on Real-world dataSeny&amp;nbsp;Kamara (Brown University), Abdelkarim&amp;nbsp;Kati (Mohammed-VI Polytechnic University), Tarik&amp;nbsp;Moataz (Aroki Systems), Thomas&amp;nbsp;Schneider (TU Darmstadt), Amos&amp;nbsp;Treiber (TU Darmstadt), Michael&amp;nbsp;Yonli (TU Darmstadt)</description>
     </item>
@@ -350,11 +343,9 @@ Trampoline Over the Air: Breaking in IoT Devices Through MQTT BrokersHuikai&amp;
       <description>Topics &amp;middot; Papers  Secure information flowCompositional Information Flow Monitoring for Reactive ProgramsMcKenna&amp;nbsp;McCall (Carnegie Mellon University), Abhishek&amp;nbsp;Bichhawat (Indian Institute of Technology Gandhinagar), Limin&amp;nbsp;Jia (Carnegie Mellon University)
 [Paper]
 [Artifact]
-Dynamic Policies RevisitedAmir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology)
+Dynamic Policies RevisitedAmir&amp;nbsp;M.&amp;nbsp;Ahmadian (KTH Royal Institute of Technology), Musard&amp;nbsp;Balliu (KTH Royal Institute of Technology)
 [Artifact]
-SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University)
-[Artifact]
-Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained Decentralized Information Flow ControlJason&amp;nbsp;Liu (University of Illinois at Urbana-Champaign), Anant&amp;nbsp;Kandikuppa (University of Illinois at Urbana-Champaign), Adam&amp;nbsp;Bates (University of Illinois at Urbana-Champaign)</description>
+SoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)</description>
     </item>
     
     <item>
@@ -363,7 +354,7 @@ Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained D
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/topic-23/</guid>
-      <description>Topics &amp;middot; Papers  Security and privacy policiesSoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University)
+      <description>Topics &amp;middot; Papers  Security and privacy policiesSoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)
 [Artifact]</description>
     </item>
     
@@ -373,7 +364,7 @@ Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained D
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/topic-24/</guid>
-      <description>Topics &amp;middot; Papers  Security architecturesxTag: Mitigating Use-After-Free Vulnerabilities via Software-Based Pointer Tagging on Intel x86-64Lukas&amp;nbsp;Bernhard (Ruhr University Bochum)
+      <description>Topics &amp;middot; Papers  Security architecturesxTag: Mitigating Use-After-Free Vulnerabilities via Software-Based Pointer Tagging on Intel x86-64Lukas&amp;nbsp;Bernhard (Ruhr University Bochum), Michael&amp;nbsp;Rodler (University of Duisburg-Essen), Thorsten&amp;nbsp;Holz (CISPA Helmholtz Center for Information Security), Lucas&amp;nbsp;Davi (University of Duisburg-Essen)
 [Paper]
 [Artifact]</description>
     </item>
@@ -384,13 +375,11 @@ Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained D
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/topic-25/</guid>
-      <description>Topics &amp;middot; Papers  System securityHARM: Hardware-assisted Continuous Re-randomization for MicrocontrollersJiameng&amp;nbsp;Shi (University of Georgia)
+      <description>Topics &amp;middot; Papers  System securityHARM: Hardware-assisted Continuous Re-randomization for MicrocontrollersJiameng&amp;nbsp;Shi (University of Georgia), Le&amp;nbsp;Guan (University of Georgia), Wenqiang&amp;nbsp;Li (Chinese Academy of Sciences), Dayou&amp;nbsp;Zhang (University of Georgia), Ping&amp;nbsp;Chen (Fudan University), Ning&amp;nbsp;Zhang (Washington University in St. Louis)
 [Artifact]
-LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University)
+LockedDown: Exploiting Contention on Host-GPU PCIe Bus for Fun and ProfitMert&amp;nbsp;Side (Texas Tech University), Fan&amp;nbsp;Yao (University of Central Florida), Zhenkai&amp;nbsp;Zhang (Clemson University)
 [Artifact]
-SAUSAGE: Security Analysis of Unix domain Socket Usage in AndroidMounir&amp;nbsp;Elgharabawy (Concordia University), Blas&amp;nbsp;Kojusner (University of Florida), Mohammad&amp;nbsp;Mannan (Concordia University), Kevin&amp;nbsp;R.&amp;nbsp;B.&amp;nbsp;Butler (University of Florida), Byron&amp;nbsp;Williams (University of Florida), Amr&amp;nbsp;Youssef (Concordia University)
-[Artifact]
-SoK: Workerounds - Categorizing Service Worker Attacks and MitigationsKarthika&amp;nbsp;Subramani (University of Georgia), Jordan&amp;nbsp;Jueckstock (North Carolina State University), Alexandros&amp;nbsp;Kapravelos (North Carolina State University), Roberto&amp;nbsp;Perdisci (University of Georgia / Georgia Tech)</description>
+SAUSAGE: Security Analysis of Unix domain Socket Usage in AndroidMounir&amp;nbsp;Elgharabawy (Concordia University), Blas&amp;nbsp;Kojusner (University of Florida), Mohammad&amp;nbsp;Mannan (Concordia University), Kevin&amp;nbsp;R.</description>
     </item>
     
     <item>
@@ -409,7 +398,7 @@ SoK: Workerounds - Categorizing Service Worker Attacks and MitigationsKarthika&a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/topic-27/</guid>
-      <description>Topics &amp;middot; Papers  Web privacySoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University)
+      <description>Topics &amp;middot; Papers  Web privacySoK: All or Nothing - A Postmortem of Solutions to the Third-Party Script Inclusion Permission Model and a Path ForwardSteven&amp;nbsp;Sprecher (Northeastern University), Christoph&amp;nbsp;Kerschbaumer (Mozilla Corporation), Engin&amp;nbsp;Kirda (Northeastern University)
 [Artifact]
 SoK: Oblivious Pseudorandom FunctionsSívia&amp;nbsp;Casacuberta (Harvard University), Julia&amp;nbsp;Hesse (IBM Research Europe - Zürich), Anja&amp;nbsp;Lehmann (Hasso-Plattner-Institute, University of Potsdam)
 [Paper]</description>
@@ -446,7 +435,7 @@ Lethe: Practical Data Breach Detection with Zero Persistent Secret StateAntreas&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/fulltopics/</guid>
-      <description>Topics are based on selections by the authors. The same paper may be listed under multiple topics. Access control SAUSAGE: Security Analysis of Unix domain Socket Usage in Android (Mounir&amp;nbsp;Elgharabawy, Blas&amp;nbsp;Kojusner, Mohammad&amp;nbsp;Mannan, Kevin&amp;nbsp;R.&amp;nbsp;B.&amp;nbsp;Butler, Byron&amp;nbsp;Williams, Amr&amp;nbsp;Youssef) [Artifact] Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained Decentralized Information Flow Control (Jason&amp;nbsp;Liu, Anant&amp;nbsp;Kandikuppa, Adam&amp;nbsp;Bates) [Artifact] Adversarial Machine Learning aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA (Md&amp;nbsp;Imran&amp;nbsp;Hossen, Xiali&amp;nbsp;Hei) [Paper] [Artifact] Captcha me if you can: Imitation Games with Reinforcement Learning (Ilias&amp;nbsp;Tsingenopoulos, Davy&amp;nbsp;Preuveneers, Lieven&amp;nbsp;Desmet, Wouter&amp;nbsp;Joosen) [Artifact] Dynamic Backdoor Attacks Against Machine Learning Models (Ahmed&amp;nbsp;Salem, Rui&amp;nbsp;Wen, Michael&amp;nbsp;Backes, Shiqing&amp;nbsp;Ma, Yang&amp;nbsp;Zhang) [Paper] [Artifact] GRAPHITE: Generating Automatic Physical Examples for Machine-Learning Attacks on Computer Vision Systems (Ryan&amp;nbsp;Feng) [Paper] [Artifact] Towards Fair and Robust Classification (Haipei&amp;nbsp;Sun, Kun&amp;nbsp;Wu, Ting&amp;nbsp;Wang) [Artifact] TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors (Ren&amp;nbsp;Pang, Zheng&amp;nbsp;Zhang, Xiangshan&amp;nbsp;Gao, Zhaohan&amp;nbsp;Xi, Shouling&amp;nbsp;Ji, Peng&amp;nbsp;Cheng, Xiapu&amp;nbsp;Luo, Ting&amp;nbsp;Wang) [Paper] [Artifact] Application security Fuzzing with Data Dependency Information (Alessandro&amp;nbsp;Mantovani, Andrea&amp;nbsp;Fioraldi, Davide&amp;nbsp;Balzarotti) [Artifact] HARM: Hardware-assisted Continuous Re-randomization for Microcontrollers (Jiameng&amp;nbsp;Shi) [Artifact] Lightweight, Multi-Stage, Compiler-Assisted Application Specialization (Mohannad&amp;nbsp;Alhanahnah, Rithik&amp;nbsp;Jain, Vaibhav&amp;nbsp;Rastogi, Somesh&amp;nbsp;Jha, Thomas&amp;nbsp;Reps) [Paper] [Artifact] xTag: Mitigating Use-After-Free Vulnerabilities via Software-Based Pointer Tagging on Intel x86-64 (Lukas&amp;nbsp;Bernhard) [Paper] [Artifact] Attacks on systems DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices (Kartik&amp;nbsp;Patwari, Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz, Han&amp;nbsp;Wang, Houman&amp;nbsp;Homayoun, Zubair&amp;nbsp;Shafiq, Chen-Nee&amp;nbsp;Chuah) [Artifact] HyperLogLog: Exponentially Bad in Adversarial Settings (Kenneth&amp;nbsp;G.</description>
+      <description>Topics are based on selections by the authors. The same paper may be listed under multiple topics. Access control SAUSAGE: Security Analysis of Unix domain Socket Usage in Android (Mounir&amp;nbsp;Elgharabawy, Blas&amp;nbsp;Kojusner, Mohammad&amp;nbsp;Mannan, Kevin&amp;nbsp;R.&amp;nbsp;B.&amp;nbsp;Butler, Byron&amp;nbsp;Williams, Amr&amp;nbsp;Youssef) [Artifact] Transparent DIFC: Harnessing Innate Application Event Logging for Fine-Grained Decentralized Information Flow Control (Jason&amp;nbsp;Liu, Anant&amp;nbsp;Kandikuppa, Adam&amp;nbsp;Bates) [Artifact] Adversarial Machine Learning aaeCAPTCHA: The Design and Implementation of Audio Adversarial CAPTCHA (Md&amp;nbsp;Imran&amp;nbsp;Hossen, Xiali&amp;nbsp;Hei) [Paper] [Artifact] Captcha me if you can: Imitation Games with Reinforcement Learning (Ilias&amp;nbsp;Tsingenopoulos, Davy&amp;nbsp;Preuveneers, Lieven&amp;nbsp;Desmet, Wouter&amp;nbsp;Joosen) [Artifact] Dynamic Backdoor Attacks Against Machine Learning Models (Ahmed&amp;nbsp;Salem, Rui&amp;nbsp;Wen, Michael&amp;nbsp;Backes, Shiqing&amp;nbsp;Ma, Yang&amp;nbsp;Zhang) [Paper] [Artifact] GRAPHITE: Generating Automatic Physical Examples for Machine-Learning Attacks on Computer Vision Systems (Ryan&amp;nbsp;Feng, Neal&amp;nbsp;Mangaokar, Jiefeng&amp;nbsp;Chen, Earlence&amp;nbsp;Fernandes, Somesh&amp;nbsp;Jha, Atul&amp;nbsp;Prakash) [Paper] [Artifact] Towards Fair and Robust Classification (Haipei&amp;nbsp;Sun, Kun&amp;nbsp;Wu, Ting&amp;nbsp;Wang, Wendy&amp;nbsp;Hui&amp;nbsp;Wang) [Artifact] TrojanZoo: Towards Unified, Holistic, and Practical Evaluation of Neural Backdoors (Ren&amp;nbsp;Pang, Zheng&amp;nbsp;Zhang, Xiangshan&amp;nbsp;Gao, Zhaohan&amp;nbsp;Xi, Shouling&amp;nbsp;Ji, Peng&amp;nbsp;Cheng, Xiapu&amp;nbsp;Luo, Ting&amp;nbsp;Wang) [Paper] [Artifact] Application security Fuzzing with Data Dependency Information (Alessandro&amp;nbsp;Mantovani, Andrea&amp;nbsp;Fioraldi, Davide&amp;nbsp;Balzarotti) [Artifact] HARM: Hardware-assisted Continuous Re-randomization for Microcontrollers (Jiameng&amp;nbsp;Shi, Le&amp;nbsp;Guan, Wenqiang&amp;nbsp;Li, Dayou&amp;nbsp;Zhang, Ping&amp;nbsp;Chen, Ning&amp;nbsp;Zhang) [Artifact] Lightweight, Multi-Stage, Compiler-Assisted Application Specialization (Mohannad&amp;nbsp;Alhanahnah, Rithik&amp;nbsp;Jain, Vaibhav&amp;nbsp;Rastogi, Somesh&amp;nbsp;Jha, Thomas&amp;nbsp;Reps) [Paper] [Artifact] xTag: Mitigating Use-After-Free Vulnerabilities via Software-Based Pointer Tagging on Intel x86-64 (Lukas&amp;nbsp;Bernhard, Michael&amp;nbsp;Rodler, Thorsten&amp;nbsp;Holz, Lucas&amp;nbsp;Davi) [Paper] [Artifact] Attacks on systems DNN Model Architecture Fingerprinting Attack on CPU-GPU Edge Devices (Kartik&amp;nbsp;Patwari, Syed&amp;nbsp;Mahbub&amp;nbsp;Hafiz, Han&amp;nbsp;Wang, Houman&amp;nbsp;Homayoun, Zubair&amp;nbsp;Shafiq, Chen-Nee&amp;nbsp;Chuah) [Artifact] HyperLogLog: Exponentially Bad in Adversarial Settings (Kenneth&amp;nbsp;G.</description>
     </item>
     
     <item>
