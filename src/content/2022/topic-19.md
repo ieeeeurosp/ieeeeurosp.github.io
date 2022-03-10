@@ -1,6 +1,6 @@
 +++
 title = "IEEE EuroS&P 2022 - Papers on Privacy metrics"
 +++
-<center><a href="../topics"><b>Topics</b></a> &middot; <a href="../papers"><b>Papers</b></a></center>
+<center><a href="https://ieeeeurosp.github.io/2022/topics"><b>Topics</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/papers"><b>Papers</b></a></center>
 <p>
-<h2>Privacy metrics</h2><div class="bpaper"><span class="ptitle">KGP Meter: Communicating Kin Genomic Privacy to the Masses</span></br><div class="pblock"><span class="author">Mathias&nbsp;Humbert</span> <span class="institution">(Cyber-Defence Campus, armasuisse S+T)</span>, <span class="author">Didier&nbsp;Dupertuis</span> <span class="institution">(EPFL)</span>, <span class="author">Mauro&nbsp;Cherubini</span> <span class="institution">(University of Lausanne)</span>, <span class="author">Kévin&nbsp;Huguenin</span> <span class="institution">(University of Lausanne)</span><br><div class="pextra"></div></div></div>
+<h2>Privacy metrics</h2><div class="bpaper"><span class="ptitle">KGP Meter: Communicating Kin Genomic Privacy to the Masses</span></br><div class="pblock"><span class="author">Mathias&nbsp;Humbert</span> <span class="institution">(University of Lausanne)</span>, <span class="author">Didier&nbsp;Dupertuis</span> <span class="institution">(EPFL)</span>, <span class="author">Mauro&nbsp;Cherubini</span> <span class="institution">(University of Lausanne)</span>, <span class="author">Kévin&nbsp;Huguenin</span> <span class="institution">(University of Lausanne)</span><br><div class="pextra"><a href="https://serval.unil.ch/resource/serval:BIB_0D43E1BE4D8F.P001/REF">[Paper]</a><br><a href="https://github.com/isplab-unil/kin-genomic-privacy">[Artifact]</a><br></div></div></div>

@@ -16,7 +16,8 @@ import csv
 
 # This is a hard-coded pathname (output by hotcrp).
 # This file should not be included in repo due to confidentiality risks.
-PAPERS_CSV = "/Users/dave/Dropbox/EuroSP/conference/eurosp2022-data.csv"
+PAPERS_CSV = "/Users/dave/Dropbox/EuroSP/conference/eurosp2022-combined.csv"
+## PAPERS_CSV = "/Users/dave/Dropbox/EuroSP/conference/test.csv"
 TOPICS_CSV = "/Users/dave/Dropbox/EuroSP/conference/eurosp2022-topics.csv"
 CONFERENCE = "IEEE EuroS&P 2022"
 CONFERENCE_FULL = '<a href="https://www.ieee-security.org/TC/EuroSP2022/">7<sup>th</sup> IEEE European Symposium on Security and Privacy</a>'
@@ -68,7 +69,7 @@ def sort_name(fullname):
 def read_sessions(fname):
     sessions = []
 
-    with open(fname, encoding='ISO-8859-1') as csvfile:
+    with open(fname, encoding="utf-8") as csvfile: # , encoding='ISO-8859-1'
         sreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         headers = next(sreader)
         for row in sreader:
@@ -93,7 +94,7 @@ def read_papers(fname):
     institutions = {}
     topics = {}
 
-    with open(fname) as csvfile: # , encoding='ISO-8859-1') 
+    with open(fname, encoding='utf-8') as csvfile: # ) 
         sreader = csv.reader(csvfile, delimiter=',', quotechar='"')
         headers = next(sreader)
         for row in sreader:
@@ -107,7 +108,7 @@ def read_papers(fname):
             continue
         # print ("Paper: " + paper["Title"])
         paper['topics'] = set()
-        authors = paper["Authors"]
+        authors = paper["AuthorsResolved"]
         # remove affiliations
         nauthors = []
         fauthors = []
@@ -212,6 +213,7 @@ def paper_available(paper):
     if "PaperURL" in paper:
         paperurl = paper["PaperURL"].strip()
         if len(paperurl) > 0:
+            print ("Paperurl: " + paperurl)
             assert (paperurl.startswith("http://") or paperurl.startswith("https://"))
             return paperurl
 
@@ -226,7 +228,7 @@ def artifact_available(paper):
 
     return None
 
-def generate_papertitle(paper, inSession=False): # True):
+def generate_papertitle(paper, artifactURL=False, inSession=False, openURL=False): # True):
     title = paper["Title"]
     res = '<em>' + title + '</em>'
 
@@ -236,10 +238,16 @@ def generate_papertitle(paper, inSession=False): # True):
 
     url = paper_available(paper)
     if url:
-        res += ' <a href="' + url + '">[Paper]</a>'
+        if openURL:
+            res += ' </br>Open Paper:&nbsp;<a href="' + url + '">' + url + '</a>'
+        else:
+            res += ' <a href="' + url + '">[Paper]</a>'
 
     if artifact_available(paper):
-        res += ' <a href="' + paper["ArtifactURL"] + '">[Artifact]</a>'
+        if artifactURL:
+            res += ' </br>Artifact:&nbsp;<a href="' + paper["ArtifactURL"] + '">' + paper["ArtifactURL"] + '</a>'
+        else:
+            res += ' <a href="' + paper["ArtifactURL"] + '">[Artifact]</a>'
 
     # if inSession:
     #    session = paper["SessionID"]
@@ -303,12 +311,12 @@ def generate_fullt_paper(paper, inSession=True):
 
 def generate_full_paper(paper, inSession=True):
     fauthors = paper["FullAuthors"]
-    res = fauthors + '. ' + generate_papertitle(paper, inSession) 
+    res = fauthors + '. ' + generate_papertitle(paper, inSession=inSession) 
     return res
 
-def generate_paper(paper, inSession=True):
+def generate_paper(paper, inSession=False):
     authors = paper["Authors"]
-    res = authors + '. ' + generate_papertitle(paper, inSession) 
+    res = authors + '. ' + generate_papertitle(paper, inSession=inSession) 
     return res
 
 def generate_short_paper(paper):
@@ -377,14 +385,16 @@ The following papers have been accepted to the """ + CONFERENCE_FULL + """ to be
 
 </p>
 <p align=center>
-<a href="../authors"><b>List By Authors</b></a> &middot; <a href="../institutions"><b>Institutions</b></a> &middot; <a href="../fulltopics"><b>Papers by Topic</b></a>  </p>
+<a href="https://ieeeeurosp.github.io/2022/authors"><b>List By Authors</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/institutions"><b>Institutions</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/fulltopics"><b>Papers by Topic</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Papers with Artifacts</b>
+&middot; <a href="https://ieeeeurosp.github.io/2022/openpapers"><b>Open Papers</b></a></p>
+</p>
 """)
-   #   &middot; <a href="../openpapers"><b>Available Papers</b></a> &middot; <a href="../artifacts"><b>Artifacts</b></a></p>
+   #   &middot; <a href="https://ieeeeurosp.github.io/2022/openpapers"><b>Available Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Artifacts</b></a></p>
       f.write("""   <table class="papers"> """)
       shading = False
       count = 0
       for p in papers:
-          # print ("Paper: " + p["Title"] + " / Authors: " + p["Authors"])
+          print ("Paper: " + p["Title"] + " / Authors: " + p["Authors"])
           assert len(p["Authors"]) > 5
           row = '<td width="55%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + generate_papertitle(p) + '</td><td width="45%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + p["Authors"] + "</td>"
           f.write(("<tr>" if shading else "<tr bgcolor=\"E6E6FA\">") + row + "</tr>")
@@ -403,14 +413,14 @@ title = "IEEE Euro S&P 2022 - Available Papers"
 The following papers that have been accepted to appear in the <a href="https://www.ieee-security.org/TC/EuroSP2022/">7<sup>th</sup> IEEE European Symposium on Security and Privacy</a> are now openly available.
 </p>
 <p align=center>
-<a href="/papers"><b>All Papers</b></a> &middot; <a href="/authors"><b>List By Authors</b></a> &middot; <a href="/institutions"><b>Institutions</b></a></p>
+<a href="https://ieeeeurosp.github.io/2022/papers"><b>All Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/authors"><b>List By Authors</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/institutions"><b>Institutions</b></a>  &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Artifacts</b></a></p>
 """)
       f.write("""   <table class="papers"> """)
       shading = False
       for p in papers:
           assert len(p["Authors"]) > 5
           if paper_available(p):
-              row = '<td width="55%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + generate_papertitle(p) + '</td><td width="45%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + p["Authors"] + "</td>"
+              row = '<td width="55%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + generate_papertitle(p, openURL=True, artifactURL=True) + '</td><td width="45%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + p["Authors"] + "</td>"
               f.write(("<tr>" if shading else "<tr bgcolor=\"E6E6FA\">") + row + "</tr>")
               count += 1
               shading = not shading
@@ -428,14 +438,14 @@ The following papers have artifacts available (in accordance with our Open Scien
 </p>
 
 <p align=center>
-<a href="/papers"><b>All Papers</b></a> &middot; <a href="/authors"><b>List By Authors</b></a> &middot; <a href="/institutions"><b>Institutions</b></a></p>
+<a href="https://ieeeeurosp.github.io/2022/papers"><b>All Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/authors"><b>List By Authors</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/institutions"><b>Institutions</b></a></p>
 """)
       f.write("""   <table class="papers"> """)
       shading = False
       for p in papers:
           assert len(p["Authors"]) > 5
           if artifact_available(p):
-              row = '<td width="55%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + generate_papertitle(p) + '</td><td width="45%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + p["Authors"] + "</td>"
+              row = '<td width="55%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + generate_papertitle(p, artifactURL=True) + '</td><td width="45%" style="padding: 10px; border-bottom: 1px solid #ddd;">' + p["Authors"] + "</td>"
               f.write(("<tr>" if shading else "<tr bgcolor=\"E6E6FA\">") + row + "</tr>")
               shading = not shading
       f.write("""   </table>""") 
@@ -478,12 +488,12 @@ title = \"""" + CONFERENCE + """ - Authors\"
 +++
 
 <p align=center>
-<a href="../papers"><b>Papers</b></a> &middot; <a href="../institutions"><b>Institutions</b></a> &middot; <a href="../fulltopics"><b>Papers by Topic</b></a> 
+<a href="https://ieeeeurosp.github.io/2022/papers"><b>Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/institutions"><b>Institutions</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/fulltopics"><b>Papers by Topic</b></a> 
 </p>
 
 """)
 
-      #  &middot; <a href="../openpapers"><b>Available Papers</b></a> &middot; <a href="../artifacts"><b>Artifacts</b></a></p>
+      #  &middot; <a href="https://ieeeeurosp.github.io/2022/openpapers"><b>Available Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Artifacts</b></a></p>
       f.write("""   <table class="papers"> """)
       shading = False
       for author in authors:
@@ -505,7 +515,7 @@ title = \"""" + CONFERENCE + """ - Authors\"
 +++
 title = \"""" + CONFERENCE + """ - Institutions\"
 +++
-<p align=center><a href="../papers"><b>Papers</b></a> &middot; <a href="../authors"><b>Authors</b></a> &middot; <a href="../fulltopics"><b>Papers by Topic</b></a></p>
+<p align=center><a href="https://ieeeeurosp.github.io/2022/papers"><b>Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/authors"><b>Authors</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/fulltopics"><b>Papers by Topic</b></a></p>
 <p>
 Insitutions affiliated with authors of papers in the """ + CONFERENCE_FULL + """.
 <p>
@@ -514,7 +524,7 @@ Insitutions affiliated with authors of papers in the """ + CONFERENCE_FULL + """
 </p>
 
 """)
-#  &middot; <a href="../openpapers"><b>Available Papers</b></a> &middot; <a href="../artifacts"><b>Artifacts</b></a></p>
+#  &middot; <a href="https://ieeeeurosp.github.io/2022/openpapers"><b>Available Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Artifacts</b></a></p>
       f.write("""   <table class="papers"> """)
       shading = False
       for institution in institutions:
@@ -540,10 +550,10 @@ title = \"""" + CONFERENCE + """ - Topics\"
 +++
 
 <p align=center>
-<a href="../fulltopics"><b>Complete List of Papers by Topic</b></a> &middot; <a href="../authors"><b>List By Authors</b></a> &middot; <a href="../institutions"><b>Institutions</b></a></p>
+<a href="https://ieeeeurosp.github.io/2022/fulltopics"><b>Complete List of Papers by Topic</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/authors"><b>List By Authors</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/institutions"><b>Institutions</b></a></p>
 
 """)
-      #  &middot;  <a href="../openpapers"><b>Available Papers</b></a> &middot; <a href="../artifacts"><b>Artifacts</b></a></p>
+      #  &middot;  <a href="https://ieeeeurosp.github.io/2022/openpapers"><b>Available Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Artifacts</b></a></p>
       topiclist = list(topics.keys())
       topiclist.sort()
       with open("fulltopics.html", "w") as ff:
@@ -561,7 +571,7 @@ Topics are based on selections by the authors. The same paper may be listed unde
           for topici in range(len(topiclist)):
               topic = topiclist[topici]
               print("Topic: " + topic)
-              fshead = "<a href=\"../topic-" + str(topici) + "\"><b>" + topic + "</b></a>" 
+              fshead = "<a href=\"https://ieeeeurosp.github.io/2022/topic-" + str(topici) + "\"><b>" + topic + "</b></a>" 
               f.write(fshead + '<br>')
               ff.write("<p>" + fshead + ' ')
               ff.write('<br>')
@@ -569,7 +579,7 @@ Topics are based on selections by the authors. The same paper may be listed unde
                   fs.write("""+++
 title = \"""" + CONFERENCE + """ - Papers on """ + topic + """\"
 +++
-<center><a href="../topics"><b>Topics</b></a> &middot; <a href="../papers"><b>Papers</b></a></center>
+<center><a href="https://ieeeeurosp.github.io/2022/topics"><b>Topics</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/papers"><b>Papers</b></a></center>
 <p>
 <h2>""" + topic + "</h2>")
                   spapers = topics[topic]['papers']
