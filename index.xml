@@ -196,6 +196,7 @@ Signature Correction Attack on Dilithium Signature SchemeSaad&amp;nbsp;Islam (Wo
       <author>evans@virginia.edu (Euro S&amp;P Program Chairs)</author>
       <guid>https://ieeeeurosp.github.io/2022/topic-10/</guid>
       <description>Topics &amp;middot; Papers  Intrusion detectionSIERRA: Ranking Anomalous Activities in Enterprise NetworksJehyun&amp;nbsp;Lee (Trustwave), Farren&amp;nbsp;Tang (Trustwave), Phyo&amp;nbsp;May&amp;nbsp;Thet (Institute for Infocomm Research - A*STAR), Desmond&amp;nbsp;Yeoh (Shopee), Mitch&amp;nbsp;Rybczynski (Trustwave), Dinil&amp;nbsp;Mon&amp;nbsp;Divakaran (Trustwave)
+[Paper]
 SoK: The Impact of Unlabelled Data in Cyberthreat DetectionGiovanni&amp;nbsp;Apruzzese (University of Liechtenstein), Pavel&amp;nbsp;Laskov (University of Liechtenstein), Aliya&amp;nbsp;Tastemirova (University of Liechtenstein)
 [Artifact]</description>
     </item>
@@ -297,7 +298,8 @@ WatchAuth: User Authentication and Intent Recognition in Mobile Payments using a
 HyperLogLog: Exponentially Bad in Adversarial SettingsKenneth&amp;nbsp;G.&amp;nbsp;Paterson (ETH Zurich), Mathilde&amp;nbsp;Raynal (EPFL)
 [Paper]
 [Artifact]
-SIERRA: Ranking Anomalous Activities in Enterprise NetworksJehyun&amp;nbsp;Lee (Trustwave), Farren&amp;nbsp;Tang (Trustwave), Phyo&amp;nbsp;May&amp;nbsp;Thet (Institute for Infocomm Research - A*STAR), Desmond&amp;nbsp;Yeoh (Shopee), Mitch&amp;nbsp;Rybczynski (Trustwave), Dinil&amp;nbsp;Mon&amp;nbsp;Divakaran (Trustwave)</description>
+SIERRA: Ranking Anomalous Activities in Enterprise NetworksJehyun&amp;nbsp;Lee (Trustwave), Farren&amp;nbsp;Tang (Trustwave), Phyo&amp;nbsp;May&amp;nbsp;Thet (Institute for Infocomm Research - A*STAR), Desmond&amp;nbsp;Yeoh (Shopee), Mitch&amp;nbsp;Rybczynski (Trustwave), Dinil&amp;nbsp;Mon&amp;nbsp;Divakaran (Trustwave)
+[Paper]</description>
     </item>
     
     <item>
