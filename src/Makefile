@@ -10,6 +10,10 @@ BASEDIR = .
 SRCDIR = .
 PAGEDIR = $(BASEDIR)/content/2022
 
+posters: posters.py
+	cd $(SRCDIR); python3 posters.py
+	cat $(SRCDIR)/Papers.top $(SRCDIR)/posters.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/posters.md
+
 html:
 	cd $(SRCDIR); python3 process.py
 ##	cat $(SRCDIR)/papers.top $(SRCDIR)/sessions.html $(SRCDIR)/papers.bottom > $(PAGEDIR)/sessions.md

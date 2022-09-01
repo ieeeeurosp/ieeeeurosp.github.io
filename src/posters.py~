@@ -388,9 +388,7 @@ The following papers have been accepted to the """ + CONFERENCE_FULL + """ to be
 </p>
 <p align=center>
 <a href="https://ieeeeurosp.github.io/2022/authors"><b>List By Authors</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/institutions"><b>Institutions</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/fulltopics"><b>Papers by Topic</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Papers with Artifacts</b></a>
-&middot; <a href="https://ieeeeurosp.github.io/2022/openpapers"><b>Open Papers</b></a>
-&middot; <a href="https://ieeeeurosp.github.io/2022/posters"><b>Posters</b></a>
-</p>
+&middot; <a href="https://ieeeeurosp.github.io/2022/openpapers"><b>Open Papers</b></a></p>
 </p>
 """)
    #   &middot; <a href="https://ieeeeurosp.github.io/2022/openpapers"><b>Available Papers</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Artifacts</b></a></p>
