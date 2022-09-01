@@ -190,7 +190,7 @@ def read_posters(fname):
 def generate_papertitle(paper, artifactURL=False, inSession=False, openURL=False): # True):
     num = paper["ID"]
     title = paper["Title"]
-    res = '<A href="//2022/posters/eurosp22posters-final' + str(num) + '.pdf"><em>' + title + '</em></a>'
+    res = '<A href="https://ieeeeurosp.github.io/2022/posters/eurosp22posters-final' + str(num) + '.pdf"><em>' + title + '</em></a>'
 
     return res
 
@@ -318,7 +318,6 @@ The following posters were accepted to the """ + CONFERENCE_FULL + """ and prese
 
 </p>
 """)
-   #   &middot; <a href="https://ieeeeurosp.github.io/2022/openposters"><b>Available Posters</b></a> &middot; <a href="https://ieeeeurosp.github.io/2022/artifacts"><b>Artifacts</b></a></p>
       f.write("""   <table class="posters"> """)
       shading = False
       count = 0
